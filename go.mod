@@ -1,6 +1,6 @@
-module github.com/migueleliasweb/go-github-mock
+module github.com/diggerhq/go-github-mock
 
-go 1.16
+go 1.20
 
 require (
 	github.com/buger/jsonparser v1.1.1
